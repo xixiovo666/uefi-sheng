@@ -31,7 +31,7 @@
   # 1 = also load the stock vendor hardware drivers (SMEM, clocks, RPMh, UFS,
   #     USB, charger, ...). Their initialization currently blanks the panel.
   #
-  SHENG_VENDOR_HW                = 0
+  SHENG_VENDOR_HW                = 1
 
   #
   # 0 = SM8550-AB
